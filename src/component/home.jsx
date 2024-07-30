@@ -101,11 +101,12 @@ const Home = () => {
                 <div className='tags'>
                      <button onClick={showAll}>All</button> 
                     <button onClick={showsofa}>Sofas</button>
-                    <button onClick={showchair}>Chairs</button>
+                    
                    
 
                     {/* <button onClick={showlamp}>Lamps</button>
                      <button onClick={showtable}>Tables</button>
+                     <button onClick={showchair}>Chairs</button>
                     <button onClick={showkitchen}>Kitchens</button>
                     <button onClick={showelevator}>Elevators</button> */}
 

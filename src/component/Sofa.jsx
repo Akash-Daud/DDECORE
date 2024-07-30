@@ -33,7 +33,7 @@ const Sofas = () => {
                             </div>
                             <div className="ar-3d">
                                 
-                                <Link to={furniture.link3D} ><TbAugmentedReality size={'50px'} color='black' />Room Veiw</Link>
+                                <Link to={furniture.link3D} ><TbAugmentedReality size={'50px'} color='black' /></Link>
                             </div>
 
                         </div>
