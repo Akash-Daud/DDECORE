@@ -82,11 +82,12 @@ const Home = () => {
     };
     const showelevator = () => {
         // setAll(false);
-        setchair(false);
+       
       
         setsofa(false);
         // setlamp(false);
       //  settable(false);
+   //   setchair(false);
         // setkitchen(false);
         // setElevator(true);
 
@@ -122,9 +123,10 @@ const Home = () => {
                {All &&
                     <>
                         <Sofa />
-                        <Chair />
+                       
                      
                         {/* <Lamp />
+                         <Chair />
                         <Kitchen />
                            <Tables />
                         <Elevator /> */}

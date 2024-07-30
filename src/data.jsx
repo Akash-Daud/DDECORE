@@ -1,25 +1,25 @@
 
 export const chairs = [
-    {
-      id: 1,
-      name:'Chair 1',
-      desc:'Bar Chair',
-      // price:'$12',
-      image: '/images/chair1.png',  
-      link3D: '/chair1',
+    // {
+    //   id: 1,
+    //   name:'Chair 1',
+    //   desc:'Bar Chair',
+    //   // price:'$12',
+    //   image: '/images/chair1.png',  
+    //   link3D: '/chair1',
       
 
-    },
-    {
-      id: 2,
-      name:'Chair 2',
-      desc:'Office Chair',
-      // price:'$12',
-      image: '/images/chair2.png',  
-      link3D: '/chair2',
+    // },
+    // {
+    //   id: 2,
+    //   name:'Chair 2',
+    //   desc:'Office Chair',
+    //   // price:'$12',
+    //   image: '/images/chair2.png',  
+    //   link3D: '/chair2',
       
 
-    },
+    // },
     
    
   ];
@@ -141,15 +141,15 @@ export const kitchen = [
 
     },
     
-    {
-      id: 6,
-      desc:'Sofa Set',
-      name:'Sofa 6',
-      // price:'$170',
-      image: '/images/sofa6.png',  
-      link3D: '/sofa6',
+    // {
+    //   id: 6,
+    //   desc:'Sofa Set',
+    //   name:'Sofa 6',
+    //   // price:'$170',
+    //   image: '/images/sofa6.png',  
+    //   link3D: '/sofa6',
 
-    },
+    // },
     
     // {
     //   id: 7,
